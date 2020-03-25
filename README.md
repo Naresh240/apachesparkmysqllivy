@@ -8,4 +8,4 @@ curl -H "Content-Type: application/json" -X POST --data '{"className": "org.exam
 
 Checking for livy state Starting:
 ---------------------------------
-curl http://172.31.37.5:8998/batches/
+curl http://ec2-3-81-10-2.compute-1.amazonaws.com:8998/batches/
