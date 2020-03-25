@@ -59,39 +59,7 @@
       <artifactId>jackson-annotations</artifactId>
       <version>2.6.5</version>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.livy/livy-server -->
-    <!-- https://mvnrepository.com/artifact/org.apache.livy/livy-server -->
-    <dependency>
-      <groupId>org.apache.livy</groupId>
-      <artifactId>livy-server</artifactId>
-      <version>0.7.0-incubating</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.livy/livy-client-http -->
-    <dependency>
-      <groupId>org.apache.livy</groupId>
-      <artifactId>livy-client-http</artifactId>
-      <version>0.7.0-incubating</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.livy/livy-api -->
-    <!-- https://mvnrepository.com/artifact/org.apache.livy/livy-api -->
-    <dependency>
-      <groupId>org.apache.livy</groupId>
-      <artifactId>livy-api</artifactId>
-      <version>0.7.0-incubating</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
-    <dependency>
-      <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>httpclient</artifactId>
-      <version>4.5.3</version>
-    </dependency>
-    <!-- https://mvnrepository.com/artifact/org.json/json -->
-    <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20190722</version>
-    </dependency>
-
+      
     <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
